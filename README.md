@@ -10,7 +10,7 @@ Clone the project
   git clone https://github.com/juanifabrega/Castle-Defense
 ```
 
-Go to the project directory
+Go to the executable directory
 
 ```bash
   cd Castle-Defense/Ejecutable
